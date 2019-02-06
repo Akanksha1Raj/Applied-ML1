@@ -1,3 +1,5 @@
 [
-  "text12.py::test_fib"
+  "test_task13.py::test_rows_1",
+  "test_task13.py::test_cols_1",
+  "test_task13.py::test_sum_1"
 ]
